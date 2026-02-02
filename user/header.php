@@ -6,7 +6,7 @@
     <script type="text/javascript" src="../asset/js/jquery.js"></script>
     <script type="text/javascript" src="../asset/js/bootstrap.js"></script>
 </head>
-<body style="bavkground: #f0f0f0">
+<body style="background: #f0f0f0">
     <?php
     session_start();
 
